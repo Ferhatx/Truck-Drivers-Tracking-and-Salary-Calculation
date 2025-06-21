@@ -24,7 +24,7 @@ After consulting with the company, I proposed developing a web-based system.
 
 ### Login Page
 - Users log in using their email and password.
-[Login Page](tests/img/1.png)
+-[Login Page](tests/img/1.png)
 
 ### Dashboard
 - After successful login, users are directed to the homepage.
