@@ -24,12 +24,13 @@ After consulting with the company, I proposed developing a web-based system.
 
 ### Login Page
 - Users log in using their email and password.
-- ![Login Page](tests/img/1.png)
+[Login Page](tests/img/1.png)
 
 ### Dashboard
-- After successful login (see Image 2), users are directed to the homepage.
+- After successful login, users are directed to the homepage.
 - The left sidebar contains navigation cards.
 - Main screen includes quick actions to add truck drivers and manage clock cards.
+ [Main Page](tests/img/2.png)
 
 ### Personnel Card
 - (See Image 3) Includes various submenu options.
