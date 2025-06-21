@@ -23,7 +23,8 @@ After consulting with the company, I proposed developing a web-based system.
 ## Features
 
 ### Login Page
-- Users log in using their email and password (see Image 1).
+- Users log in using their email and password.
+- ![Login Page](tests\img1.png)
 
 ### Dashboard
 - After successful login (see Image 2), users are directed to the homepage.
