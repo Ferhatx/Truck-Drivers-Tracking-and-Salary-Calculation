@@ -24,31 +24,38 @@ After consulting with the company, I proposed developing a web-based system.
 
 ### Login Page
 - Users log in using their email and password.
--![Login Page](tests/img/1.png)
+- ![Login Page](tests/img/1.png)
 
 ### Dashboard
 - After successful login, users are directed to the homepage.
 - The left sidebar contains navigation cards.
 - Main screen includes quick actions to add truck drivers and manage clock cards.
--![Main Page](tests/img/2.png)
+- ![Main Page](tests/img/2.png)
 
 ### Personnel Card
-- (See Image 3) Includes various submenu options.
-- (See Image 4) Displays a list of truck drivers.
+- Includes various submenu options.
+- ![Sub Menu](tests/img/3.png)
+- Displays a list of truck drivers.
+- ![Truck Drivers](tests/img/4.png)
 - Allows editing driver details, managing working hours and wages, and deactivating drivers who have left.
 
 ### Add Driver
-- (See Image 5) Form to add new drivers based on the company's input.
+-  Form to add new drivers based on the company's input.
+- ![Sub1 Menu](tests/img/5.png)
 
 ### Clock Card
-- (See Image 7) Displays clock-in/out times, rest periods, and monthly earnings for a selected driver.
+- Displays clock-in/out times, rest periods, and monthly earnings for a selected driver.
+- ![Sub2 Menu](tests/img/7.png)
 
 ### Work Hour Entry
-- (See Image 9) Allows entering a driver's working hours into the system.
+- Allows entering a driver's working hours into the system.
+- ![Sub3 Menu](tests/img/9.png)
 
 ### Definitions
-- (See Images 10 and 11) Used to define annual minimum wage and list of public/religious holidays.
+- Used to define annual minimum wage and list of public/religious holidays.
+- ![Sub4 Menu](tests/img/10.png)
 - These definitions assist in calculating monthly salary and hourly rates.
+- ![Sub Menu](tests/img/11.png)
 
 ## Outcome
 
